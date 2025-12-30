@@ -1,0 +1,10 @@
+Its a practice file 
+for github practice
+[D[D[D[A[3~[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[CPracticing the Git and git hub 
+1st need to open the git termional where you download the file
+next created a folder by using the mkdir command
+next make it as working directory by using the git init
+and you can write code file
+to check the file status git status, it will show as untracked file
+need to add the file from working dir to staging dir by using git add file name
+after that need to commit the file from staging to locol repo
